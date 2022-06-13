@@ -3,25 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prismaexe&label=Profile%20views&color=0e75b6&style=flat" alt="prismaexe" /> </p>
 
-- 🔭 I’m currently working on **nothing**
+- 🔭 Je suis actuellement sur **Hyridium et SphysixMC**
 
-- 🌱 I’m currently learning **C# and C++**
-
-- 👯 I’m looking to collaborate on **nothing**
-
-- 🤝 I’m looking for help with **nothing**
-
-- 👨‍💻 All of my projects are available at [the future](the future)
-
-- 📝 I regularly write articles on [no blog](no blog)
-
-- 💬 Ask me about **actually nothing**
-
-- 📫 How to reach me **gamernitro999#9537**
+- 🌱 J'essaie d'apprendre le **JAVA**
 
 - 📄 Know about my experiences [I code minecraft plugins](I code minecraft plugins)
 
-- ⚡ Fun fact **I have no fun fact**
+- ⚡ Fun fact **Je suis mort**
+
+- 📫 Contact moi **Prisma.exe#0001**
 
 
 <h3 align="left">Languages and Tools:</h3>
