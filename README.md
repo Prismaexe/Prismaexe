@@ -20,3 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prismaexe&show_icons=true&theme=radical&locale=en" alt="prismaexe" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prismaexe" alt="prismaexe" /></a> </p>
+
+Repris de galernitro999
