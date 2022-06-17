@@ -1,4 +1,7 @@
 <h1 align="center">Salut 💕, moi c'est Prismaexe</h1>
+<p align="center">
+  <a href="https://github.com/Prismaexe"><img src="https://readme-typing-svg.herokuapp.com?lines=Java+and+JavaScript+developper;Native+of+France&center=true&width=500&height=50"></a>
+</p>
 <h3 align="center">Configurateur Minecraft / Discord</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prismaexe&label=Profile%20views&color=0e75b6&style=flat" alt="prismaexe" /> </p>
