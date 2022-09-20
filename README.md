@@ -1,6 +1,6 @@
 <h1 align="center">Salut 💕, moi c'est Prismaexe</h1>
 <p align="center">
-  <a href="https://github.com/Prismaexe"><img src="https://readme-typing-svg.herokuapp.com?lines=Développeur+JavaScript;Configurateur+Minecraft+Et+Builder&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Prismaexe"><img src="https://readme-typing-svg.herokuapp.com?lines=Helios+Launcher;Configurateur+Minecraft;Mini+Builder;Cloud+System+Minecraft&center=true&width=500&height=50"></a>
 </p>
 <h3 align="center">Configurateur Minecraft / Discord</h3>
 
