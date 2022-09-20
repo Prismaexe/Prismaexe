@@ -1,6 +1,6 @@
 <h1 align="center">Salut 💕, moi c'est Prismaexe</h1>
 <p align="center">
-  <a href="https://github.com/Prismaexe"><img src="https://readme-typing-svg.herokuapp.com?lines=Helios+Launcher;Configurateur+Minecraft;Mini+Builder;Cloud+System+Minecraft&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Prismaexe"><img src="https://readme-typing-svg.herokuapp.com?lines=Helios+Launcher;Configurateur+Minecraft;Mini+Builder;Cloud+System+Minecraft;J'apprend+le+Skript&center=true&width=500&height=50"></a>
 </p>
 <h3 align="center">Configurateur Minecraft / Discord</h3>
 
@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **Je suis mort**
 
-- 📫 Contact moi **Prisma.exe#0001**
+- 📫 Contact moi **Prisma.exe#2854**
 
 
 <h3 align="left">Languages and Tools:</h3>
