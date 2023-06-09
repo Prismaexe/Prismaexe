@@ -1,8 +1,8 @@
-<h1 align="center">Salut 💕, moi c'est Prismaexe</h1>
+<h1 align="center">Hey 💕, i'm Prismaexe</h1>
 <p align="center">
   <a href="https://github.com/Prismaexe"><img src="https://readme-typing-svg.herokuapp.com?lines=Helios+Launcher;Configurateur+Minecraft;Mini+Builder;Cloud+System+Minecraft;J'apprend+le+Skript&center=true&width=500&height=50"></a>
 </p>
-<h3 align="center">Configurateur Minecraft / Discord</h3>
+<h3 align="center">I AM YOUR NEW BEST FRIENDS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prismaexe&label=Profile%20views&color=0e75b6&style=flat" alt="prismaexe" /> </p>
 
