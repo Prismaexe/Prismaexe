@@ -6,13 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prismaexe&label=Profile%20views&color=0e75b6&style=flat" alt="prismaexe" /> </p>
 
-- 🔭 Je suis actuellement sur **PandoraMC et Seridiuù**
-
 - 🌱 J'essaie d'apprendre le **JAVA**
 
-- ⚡ Fun fact **Je suis mort**
-
-- 📫 Contact moi **Prisma#5622**
+- 📫 Contact moi **Prisma.exe sur discord**
 
 [![Status Discord](https://lanyard.cnrad.dev/api/1037864287491854448?theme=dark&animated=true&idleMessage=Actuellement%20en%20train%20de%20ne%20rien%20faire)](https://discord.com/users/1037864287491854448)
 
